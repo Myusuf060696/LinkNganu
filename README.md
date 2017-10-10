@@ -6,3 +6,5 @@ http://binarycart.com/bclivedemos/01-05-2014/v1/bs-binary-admin/index.html
 https://webthemez.com/demo/free-bootstrap-admin-template-dream/form.html
 
 http://mbahcoding.com/tutorial/php/codeigniter/codeigniter-ajax-crud-using-bootstrap-modals-and-datatable.html
+
+https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
