@@ -8,3 +8,4 @@ https://webthemez.com/demo/free-bootstrap-admin-template-dream/form.html
 http://mbahcoding.com/tutorial/php/codeigniter/codeigniter-ajax-crud-using-bootstrap-modals-and-datatable.html
 
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
+http://makble.com/how-to-insert-adsense-in-the-middle-of-content-with-php
