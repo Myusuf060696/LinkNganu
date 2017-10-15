@@ -10,3 +10,5 @@ http://mbahcoding.com/tutorial/php/codeigniter/codeigniter-ajax-crud-using-boots
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
 http://makble.com/how-to-insert-adsense-in-the-middle-of-content-with-php
 https://www.codepolitan.com/belajar-algoritma-pemrograman-melalui-animasi
+
+http://www.malasngoding.com/tutorial-sublime-text-editor-part-8-auto-indent/
