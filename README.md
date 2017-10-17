@@ -12,3 +12,4 @@ http://makble.com/how-to-insert-adsense-in-the-middle-of-content-with-php
 https://www.codepolitan.com/belajar-algoritma-pemrograman-melalui-animasi
 
 http://www.malasngoding.com/tutorial-sublime-text-editor-part-8-auto-indent/
+https://www.codexworld.com/codeigniter/page/3/
