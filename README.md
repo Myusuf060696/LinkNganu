@@ -13,3 +13,12 @@ https://www.codepolitan.com/belajar-algoritma-pemrograman-melalui-animasi
 
 http://www.malasngoding.com/tutorial-sublime-text-editor-part-8-auto-indent/
 https://www.codexworld.com/codeigniter/page/3/
+
+
+--animation algoritm
+selection sort
+http://www.algomation.com/player?algorithm=58b449db0e406f04000c7133
+buble sort
+http://www.algomation.com/player?algorithm=58b307b11adc730400031082
+insertion sort
+http://www.algomation.com/player?algorithm=58b58043905a180400745cf3
