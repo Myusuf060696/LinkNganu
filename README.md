@@ -22,3 +22,9 @@ buble sort
 http://www.algomation.com/player?algorithm=58b307b11adc730400031082
 insertion sort
 http://www.algomation.com/player?algorithm=58b58043905a180400745cf3
+
+
+http://demo.smarttutorials.net/jquery-autocomplete/
+http://www.lapakcode.net/2017/01/cara-membuat-pencarian-aoutocomplete.html
+http://github.hubspot.com/
+http://suckittrees.com/artikel-542/membuat-progress-loading-bar-seperti-youtube.html
