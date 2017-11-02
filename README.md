@@ -28,3 +28,7 @@ http://demo.smarttutorials.net/jquery-autocomplete/
 http://www.lapakcode.net/2017/01/cara-membuat-pencarian-aoutocomplete.html
 http://github.hubspot.com/
 http://suckittrees.com/artikel-542/membuat-progress-loading-bar-seperti-youtube.html
+
+
+https://www.quora.com/
+https://www.redbubble.com/
