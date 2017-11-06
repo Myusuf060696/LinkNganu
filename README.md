@@ -32,3 +32,4 @@ http://suckittrees.com/artikel-542/membuat-progress-loading-bar-seperti-youtube.
 
 https://www.quora.com/
 https://www.redbubble.com/
+https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--cms-28278
