@@ -40,3 +40,4 @@ install equlizer ubuntu
 sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt update
 sudo apt install pulseaudio-equalizer=2.7.0.2-5~webupd8~xenial0
+https://ubuntu-mate.community/t/how-to-install-the-pulseaudio-equalizer-which-works/14773
