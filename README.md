@@ -34,3 +34,9 @@ https://www.quora.com/
 https://www.redbubble.com/
 https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--cms-28278
 https://internetingishard.com/html-and-css/forms/
+
+
+install equlizer ubuntu
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo apt install pulseaudio-equalizer=2.7.0.2-5~webupd8~xenial0
