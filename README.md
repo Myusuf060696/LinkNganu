@@ -36,12 +36,12 @@ https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--c
 https://internetingishard.com/html-and-css/forms/
 
 
-### install equlizer ubuntu
+### Install equlizer ubuntu
 ```sudo add-apt-repository ppa:nilarimogard/webupd8``` <br>
 ```sudo apt update``` <br>
 ```sudo apt install pulseaudio-equalizer=2.7.0.2-5~webupd8~xenial0``` <br>
 
-https://ubuntu-mate.community/t/how-to-install-the-pulseaudio-equalizer-which-works/14773
-https://askubuntu.com/questions/882198/no-sound-device-detected
+* **https://ubuntu-mate.community/t/how-to-install-the-pulseaudio-equalizer-which-works/14773** <br>
+* **https://askubuntu.com/questions/882198/no-sound-device-detected**
 
 
